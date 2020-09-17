@@ -1,0 +1,12 @@
+This is a CDCL based SAT solver with
+1. Backtracking
+2. Clause Learning
+3. Used a lazy data structure (2-Watched literal)
+More details is commented with code
+
+To run the program:
+Supply name of ".cnf" file to the main method which is at the bottom of program.
+
+Then run all cells in jupyter notebooks.
+
+Result
